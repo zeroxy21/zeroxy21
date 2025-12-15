@@ -1,4 +1,3 @@
-rajoute vhdl dans programming languages et ameliore la mise en forme ainsi que le texte pour un resultat proffessionel et esthetique :<div align="center">
 
   # Hi there! I'm Agheles 👋
 
