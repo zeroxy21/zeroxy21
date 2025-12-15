@@ -56,7 +56,7 @@
   ### 📊 GitHub Analytics
 
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=zeroxy21&show_icons=true&theme=radical&count_private=true&hide_border=true&include_all_commits=true&bg_color=0d1117" alt="Agheles' Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeroxy21&theme=radical&hide_border=true&card_width=500&background=0d1117" alt="GitHub Streak" />
   </p>
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeroxy21&layout=compact&theme=radical&hide_border=true&langs_count=6&bg_color=0d1117" alt="Top Languages" />
