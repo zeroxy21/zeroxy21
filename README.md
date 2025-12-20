@@ -6,7 +6,7 @@
 
   <p>
     Currently a <strong>2nd-year student at ENSEA</strong>, I specialize in hardware and software architecture design.<br>
-    My goal is to design critical and high-performance systems, right where software meets silicon.
+    My goal is to design critical and high-performance systems, right where software meets silicium.
   </p>
 
   ---
