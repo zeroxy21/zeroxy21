@@ -26,6 +26,7 @@
   #### 💻 Programming Languages & HDL
   <p>
     <img src="https://img.shields.io/badge/VHDL-%2300599C.svg?style=for-the-badge&logo=intel&logoColor=white" alt="VHDL" />
+    <img src="https://img.shields.io/badge/Verilog-%2300599C.svg?style=for-the-badge&logo=intel&logoColor=white" alt="Verilog" />
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
     <img src="https://img.shields.io/badge/Assembly-%235c5c5c.svg?style=for-the-badge&logo=gnu&logoColor=white" alt="Assembly" />
@@ -41,7 +42,14 @@
     <img src="https://img.shields.io/badge/ROS-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white" alt="ROS" />
   </p>
 
-  #### 🔧 Tools & DevOps
+  #### 🛠️ EDA & Design Tools
+  <p>
+    <img src="https://img.shields.io/badge/Quartus_Prime-%230071C5.svg?style=for-the-badge&logo=intel&logoColor=white" alt="Quartus" />
+    <img src="https://img.shields.io/badge/Vivado-%23CC0000.svg?style=for-the-badge&logo=xilinx&logoColor=white" alt="Vivado" />
+    <img src="https://img.shields.io/badge/ModelSim-%2300599C.svg?style=for-the-badge&logo=intel&logoColor=white" alt="ModelSim" />
+  </p>
+
+  #### 🔧 DevOps & Version Control
   <p>
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
