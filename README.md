@@ -61,10 +61,10 @@
   ### 📊 GitHub Stats
 
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=zeroxy21&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username= zeroxy21 &show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" />
   </p>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeroxy21&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username= zeroxy21 &layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
   </p>
 
   <br>
