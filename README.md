@@ -42,7 +42,7 @@
     <img src="https://img.shields.io/badge/ROS-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white" alt="ROS" />
   </p>
 
-  #### 🛠️ EDA & Design Tools
+#### 🛠️ EDA & Design Tools
   <p>
     <img src="https://img.shields.io/badge/Quartus_Prime-%230071C5.svg?style=for-the-badge&logo=intel&logoColor=white" alt="Quartus" />
     <img src="https://img.shields.io/badge/Vivado-%23CC0000.svg?style=for-the-badge&logo=xilinx&logoColor=white" alt="Vivado" />
@@ -50,7 +50,6 @@
     <img src="https://img.shields.io/badge/KiCad-3146B6?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad" />
     <img src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32CubeIDE" />
   </p>
-
   #### 🔧 DevOps & Version Control
   <p>
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
