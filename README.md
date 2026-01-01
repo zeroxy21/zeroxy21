@@ -47,6 +47,7 @@
     <img src="https://img.shields.io/badge/Quartus_Prime-%230071C5.svg?style=for-the-badge&logo=intel&logoColor=white" alt="Quartus" />
     <img src="https://img.shields.io/badge/Vivado-%23CC0000.svg?style=for-the-badge&logo=xilinx&logoColor=white" alt="Vivado" />
     <img src="https://img.shields.io/badge/ModelSim-%2300599C.svg?style=for-the-badge&logo=intel&logoColor=white" alt="ModelSim" />
+    <img src="https://img.shields.io/badge/KiCad-3146B6?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad" />
   </p>
 
   #### 🔧 DevOps & Version Control
