@@ -50,6 +50,7 @@
     <img src="https://img.shields.io/badge/KiCad-3146B6?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad" />
     <img src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32CubeIDE" />
   </p>
+  
   #### 🔧 DevOps & Version Control
   <p>
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
