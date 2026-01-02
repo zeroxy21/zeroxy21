@@ -17,59 +17,63 @@
 
   🚗 **Automotive** &nbsp;&nbsp;|&nbsp;&nbsp; 🏥 **Biomedical** &nbsp;&nbsp;|&nbsp;&nbsp; ✈️ **Aerospace**
 
-  <br>
-
   ---
 
   ### 🛠️ Technical Arsenal
 
   #### 💻 Programming Languages & HDL
   <p>
-    <img src="https://img.shields.io/badge/VHDL-%2300599C.svg?style=for-the-badge&logo=intel&logoColor=white" alt="VHDL" />
-    <img src="https://img.shields.io/badge/Verilog-%2300599C.svg?style=for-the-badge&logo=intel&logoColor=white" alt="Verilog" />
-    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-    <img src="https://img.shields.io/badge/Assembly-%235c5c5c.svg?style=for-the-badge&logo=gnu&logoColor=white" alt="Assembly" />
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/VHDL-%2300599C.svg?style=for-the-badge&logo=intel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Verilog-%2300599C.svg?style=for-the-badge&logo=intel&logoColor=white" />
+    <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+    <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+    <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
+    <img src="https://img.shields.io/badge/Assembly-%235c5c5c.svg?style=for-the-badge&logo=gnu&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   </p>
 
   #### ⚙️ Embedded & Hardware
   <p>
-    <img src="https://img.shields.io/badge/FPGA_SoC-007ACC?style=for-the-badge&logo=intel&logoColor=white" alt="FPGA" />
-    <img src="https://img.shields.io/badge/Microcontroller_STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32" />
-    <img src="https://img.shields.io/badge/Embedded_Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Embedded Linux" />
-    <img src="https://img.shields.io/badge/ROS-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white" alt="ROS" />
+    <img src="https://img.shields.io/badge/FPGA_SoC-007ACC?style=for-the-badge&logo=intel&logoColor=white" />
+    <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+    <img src="https://img.shields.io/badge/Embedded_Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/ROS-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white" />
   </p>
 
   #### 🛠️ EDA & Design Tools
   <p>
-    <img src="https://img.shields.io/badge/Quartus_Prime-%230071C5.svg?style=for-the-badge&logo=intel&logoColor=white" alt="Quartus" />
-    <img src="https://img.shields.io/badge/Vivado-%23CC0000.svg?style=for-the-badge&logo=xilinx&logoColor=white" alt="Vivado" />
-    <img src="https://img.shields.io/badge/ModelSim-%2300599C.svg?style=for-the-badge&logo=intel&logoColor=white" alt="ModelSim" />
-    <img src="https://img.shields.io/badge/KiCad-3146B6?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad" />
-    <img src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32CubeIDE" />
+    <img src="https://img.shields.io/badge/Quartus_Prime-%230071C5.svg?style=for-the-badge&logo=intel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Vivado-%23CC0000.svg?style=for-the-badge&logo=xilinx&logoColor=white" />
+    <img src="https://img.shields.io/badge/ModelSim-%2300599C.svg?style=for-the-badge&logo=intel&logoColor=white" />
+    <img src="https://img.shields.io/badge/KiCad-3146B6?style=for-the-badge&logo=kicad&logoColor=white" />
+    <img src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
   </p>
 
   #### 🔧 DevOps & Version Control
   <p>
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   </p>
 
   ---
 
   ### 📊 GitHub Stats
 
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=zeroxy21&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeroxy21&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
-  </p>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=zeroxy21&show_icons=true&theme=radical&hide_border=true&count_private=true" width="420"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeroxy21&layout=compact&theme=radical&hide_border=true&langs_count=6" width="360"/>
+      </td>
+    </tr>
+  </table>
 
   <br>
-  
+
   📫 <i>Open to internship opportunities and collaboration in embedded systems.</i>
 
 </div>
+
