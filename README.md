@@ -6,7 +6,7 @@
 
   <p>
     Currently a <strong>2nd-year student at ENSEA</strong>, I specialize in hardware and software architecture design.<br>
-    My goal is to design critical and high-performance systems, right where software meets silicium.
+    My goal is to design critical and high-performance systems, right where software meets silicon.
   </p>
 
   ---
@@ -58,20 +58,34 @@
 
   ---
 
-  ### 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=zeroxy21&show_icons=true&theme=radical&hide_border=true&count_private=true" width="420"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeroxy21&layout=compact&theme=radical&hide_border=true&langs_count=6" width="360"/>
-      </td>
-    </tr>
-  </table>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=zeroxy21&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark" 
+    alt="GitHub Stats"
+    height="165"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeroxy21&layout=compact&langs_count=8&theme=github_dark" 
+    alt="Top Languages"
+    height="165"
+  />
+</p>
 
-  <br>
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=zeroxy21&theme=github-dark&hide_border=true" 
+    alt="GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=zeroxy21&style=flat&color=blue" 
+    alt="Profile Views"
+  />
+</p>
 
   📫 <i>Open to internship opportunities and collaboration in embedded systems.</i>
 
