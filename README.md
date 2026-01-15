@@ -58,17 +58,6 @@
 
   ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=github_dark&cache_seconds=1800" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=github_dark&cache_seconds=1800" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=TON_USERNAME&theme=github-dark"/>
-</p>
-
 
   📫 <i>Open to internship opportunities and collaboration in embedded systems.</i>
 
