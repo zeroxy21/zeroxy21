@@ -58,10 +58,9 @@
   
 <br>
 
-![zeroxy21's GitHub Stats](https://stats-git-main-agheles-projects.vercel.app/api/top-langs/?username=zeroxy21&layout=compact&text_color=ffffff&hide=jupyter%20notebook,makefile,assembly,ruby,liquid,linker%20script,scss&title_color=bf00ff&border_color=bf00ff&langs_count=8&bg_color=90,23223A,462863,7431A3&border_radius=20&exclude_repo=zeroxy21.github.io)
+![Zeroxy21's GitHub Stats](https://stats-git-main-agheles-projects.vercel.app/api/top-langs/?username=zeroxy21&layout=compact&text_color=ffffff&hide=jupyter%20notebook,makefile,assembly,ruby,liquid,linker%20script,scss&title_color=bf00ff&border_color=bf00ff&langs_count=8&bg_color=90,23223A,462863,7431A3&border_radius=20&exclude_repo=zeroxy21.github.io)
 
 <br>
-
   ---
 
 
