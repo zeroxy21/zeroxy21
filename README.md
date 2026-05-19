@@ -5,7 +5,7 @@
   ### Embedded Systems Engineering Student
 
   <p>
-    Currently a <strong>2nd-year student at ENSEA</strong>, I specialize in hardware design.<br>
+    Currently a <strong>2nd-year student at ENSEA</strong>, I specialize in hardware design and Embeded Systems.<br>
     My goal is to design critical and high-performance systems, right where software meets silicon.
   </p>
 
